@@ -14,11 +14,12 @@
 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nadirov-etibar)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jquery&link=https://github.com/nadirov-etibar)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&link=https://github.com/nadirov-etibar)
+
 ![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&link=https://github.com/nadirov-etibar)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=Webpack&link=https://github.com/nadirov-etibar)
 ![Babel](https://img.shields.io/badge/-Babel-black?style=for-the-badge&logo=Babel&link=https://github.com/nadirov-etibar)
 ![Gulp.js](https://img.shields.io/badge/-Gulp.js-black?style=for-the-badge&logo=gulp&link=https://github.com/nadirov-etibar)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&link=https://github.com/nadirov-etibar)
 
 ![React.js](https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
 ![ReactRouter](https://img.shields.io/badge/-React%20Router-black?style=for-the-badge&logo=react-router&link=https://github.com/nadirov-etibar)
