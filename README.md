@@ -28,7 +28,7 @@
 ![Context API](https://img.shields.io/badge/-Context%20API-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
 
 
-![PHP](https://img.shields.io/badge/-PHP.js-black?style=for-the-badge&logo=PHP&link=https://github.com/nadirov-etibar)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&link=https://github.com/nadirov-etibar)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&link=https://github.com/nadirov-etibar)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=Express&link=https://github.com/nadirov-etibar)
 <br/>
