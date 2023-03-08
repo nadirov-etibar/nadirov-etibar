@@ -9,7 +9,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nadirov-etibar)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nadirov-etibar)
-![SCSS/SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/nadirov-etibar)
+![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-black?style=for-the-badge&logo=sass&link=https://github.com/nadirov-etibar)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/nadirov-etibar)
 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nadirov-etibar)
@@ -17,6 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&link=https://github.com/nadirov-etibar)
 
 ![npm](https://img.shields.io/badge/-NPM-black?style=for-the-badge&logo=npm&link=https://github.com/nadirov-etibar)
+![yarn](https://img.shields.io/badge/-yarn-black?style=for-the-badge&logo=yarn&link=https://github.com/nadirov-etibar)
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=Webpack&link=https://github.com/nadirov-etibar)
 ![Babel](https://img.shields.io/badge/-Babel-black?style=for-the-badge&logo=Babel&link=https://github.com/nadirov-etibar)
 ![Gulp.js](https://img.shields.io/badge/-Gulp.js-black?style=for-the-badge&logo=gulp&link=https://github.com/nadirov-etibar)
@@ -26,6 +27,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&link=https://github.com/nadirov-etibar)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nadirov-etibar)
 ![Context API](https://img.shields.io/badge/-Context%20API-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
 
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&link=https://github.com/nadirov-etibar)
@@ -49,8 +51,8 @@
 
 <a href="mailto:nadirov.etibar@gmail.com"><img src="https://img.shields.io/badge/-nadirov.etibar@gmail.com-black?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nadirov-etibar/"><img src="https://img.shields.io/badge/-Etibar%20Nadirov-black?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.facebook.com/nadirov.etibar/"><img src="https://img.shields.io/badge/-Etibar%20Nadirov-black?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/nadirov.etibar/"><img src="https://img.shields.io/badge/-nadirov.etibar-black?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.facebook.com/nadirov.etibar/"><img src="https://img.shields.io/badge/-Etibar%20Nadirov-black?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/nadirov.etibar/"><img src="https://img.shields.io/badge/-nadirov.etibar-black?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
 <a href="https://telegram.me/nadirov_etibar/"><img src="https://img.shields.io/badge/-@nadirov_etibar-black?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <!--
