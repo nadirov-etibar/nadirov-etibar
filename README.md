@@ -51,9 +51,10 @@
 
 <a href="mailto:nadirov.etibar@gmail.com"><img src="https://img.shields.io/badge/-nadirov.etibar@gmail.com-black?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nadirov-etibar/"><img src="https://img.shields.io/badge/-Etibar%20Nadirov-black?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://telegram.me/nadirov_etibar/"><img src="https://img.shields.io/badge/-@nadirov_etibar-black?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 <!-- <a href="https://www.facebook.com/nadirov.etibar/"><img src="https://img.shields.io/badge/-Etibar%20Nadirov-black?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/nadirov.etibar/"><img src="https://img.shields.io/badge/-nadirov.etibar-black?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
-<a href="https://telegram.me/nadirov_etibar/"><img src="https://img.shields.io/badge/-@nadirov_etibar-black?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <!--
 **nadirov-etibar/nadirov-etibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
