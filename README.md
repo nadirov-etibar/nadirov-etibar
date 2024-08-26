@@ -29,7 +29,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nadirov-etibar)
 ![RTK](https://img.shields.io/badge/-RTK-black?style=for-the-badge&logo=redux&link=https://github.com/nadirov-etibar)
 ![Context API](https://img.shields.io/badge/-Context%20API-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
-![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-black?style=for-the-badge&logo=react-queryt&link=https://github.com/nadirov-etibar)
+![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-black?style=for-the-badge&logo=react-query&link=https://github.com/nadirov-etibar)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-black?style=for-the-badge&logo=react-hook-form&link=https://github.com/nadirov-etibar)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=for-the-badge&logo=mui&link=https://github.com/nadirov-etibar)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
