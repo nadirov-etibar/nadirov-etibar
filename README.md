@@ -11,6 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nadirov-etibar)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-black?style=for-the-badge&logo=sass&link=https://github.com/nadirov-etibar)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/nadirov-etibar)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwind-css&link=https://github.com/nadirov-etibar)
 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nadirov-etibar)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=for-the-badge&logo=jquery&link=https://github.com/nadirov-etibar)
@@ -26,17 +27,24 @@
 ![ReactRouter](https://img.shields.io/badge/-React%20Router-black?style=for-the-badge&logo=react-router&link=https://github.com/nadirov-etibar)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&link=https://github.com/nadirov-etibar)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nadirov-etibar)
+![RTK](https://img.shields.io/badge/-RTK-black?style=for-the-badge&logo=redux&link=https://github.com/nadirov-etibar)
 ![Context API](https://img.shields.io/badge/-Context%20API-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
+![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-black?style=for-the-badge&logo=react-queryt&link=https://github.com/nadirov-etibar)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-black?style=for-the-badge&logo=react-hook-form&link=https://github.com/nadirov-etibar)
+![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=for-the-badge&logo=mui&link=https://github.com/nadirov-etibar)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react&link=https://github.com/nadirov-etibar)
 
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&link=https://github.com/nadirov-etibar)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&link=https://github.com/nadirov-etibar)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=Express&link=https://github.com/nadirov-etibar)
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&link=https://github.com/nadirov-etibar)
+![Spring](https://img.shields.io/badge/-spring-black?style=for-the-badge&logo=spring&link=https://github.com/nadirov-etibar)
 <br/>
 
 ![Mongo](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB&link=https://github.com/nadirov-etibar)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&link=https://github.com/nadirov-etibar)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&link=https://github.com/nadirov-etibar)
 <br/>
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nadirov-etibar)
@@ -45,6 +53,8 @@
 <br/>
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/nadirov-etibar)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobe-photoshop&link=https://github.com/nadirov-etibar)
+![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-black?style=for-the-badge&logo=adobe-xd&link=https://github.com/nadirov-etibar)
 <br/>
 
 ### Contact with me
